@@ -22,6 +22,7 @@ class HhruSpider(scrapy.Spider):
         salary = response.xpath(("//div[@data-qa = 'vacancy-salary']//text()")).getall()
         url = response.url
 
-        print(response.status, response.url)
+        print()
+        # print(response.status, response.url)
         ### pass
 
