@@ -1,0 +1,103 @@
+[{
+  "_id": {
+    "$oid": "66579dc3dbf588a4d3990a3e"
+  },
+  "name": "Python Developer",
+  "salary": [],
+  "url": "https://kurgan.hh.ru/vacancy/99673520?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "66579dd8dbf588a4d3990a3f"
+  },
+  "name": "Python разработчик",
+  "salary": [],
+  "url": "https://kurgan.hh.ru/vacancy/93876090?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "66579ddedbf588a4d3990a40"
+  },
+  "name": "Python разработчик",
+  "salary": [],
+  "url": "https://kurgan.hh.ru/vacancy/98942288?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "66579de5dbf588a4d3990a41"
+  },
+  "name": "Автотестировщик Java / Python / JavaScript / разработчик iOS Swift (Junior), WT Трудоустройство.",
+  "salary": [],
+  "url": "https://kurgan.hh.ru/vacancy/99991696?utm_medium=cpc_hh&utm_source=clickmehhru&utm_campaign=540783&utm_local_campaign=907626&utm_content=576236&utm_vacancy=99991696"
+},
+{
+  "_id": {
+    "$oid": "66579deadbf588a4d3990a42"
+  },
+  "name": "Разработчик Python",
+  "salary": [],
+  "url": "https://kurgan.hh.ru/vacancy/96733872?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "66579deedbf588a4d3990a43"
+  },
+  "name": "Python программист Middle+",
+  "salary": [
+    "от ",
+    "200 000",
+    " ",
+    "₽",
+    " ",
+    "на руки"
+  ],
+  "url": "https://kurgan.hh.ru/vacancy/98143430?utm_medium=cpc_hh&utm_source=clickmehhru&utm_campaign=538483&utm_local_campaign=904897&utm_content=573905&utm_vacancy=98143430"
+},
+{
+  "_id": {
+    "$oid": "66579df3dbf588a4d3990a44"
+  },
+  "name": "Разработчик Python",
+  "salary": [],
+  "url": "https://kurgan.hh.ru/vacancy/95644787?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "66579df7dbf588a4d3990a45"
+  },
+  "name": "Программист Python",
+  "salary": [
+    "от ",
+    "60 000",
+    " ",
+    "₽",
+    " ",
+    "на руки"
+  ],
+  "url": "https://kurgan.hh.ru/vacancy/94585908?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "66579dfedbf588a4d3990a46"
+  },
+  "name": "QA Automation (Python)",
+  "salary": [],
+  "url": "https://kurgan.hh.ru/vacancy/94720371?query=python&hhtmFrom=vacancy_search_list"
+},
+{
+  "_id": {
+    "$oid": "66579e1cdbf588a4d3990a47"
+  },
+  "name": "Python developer SMS",
+  "salary": [
+    "от ",
+    "2 200",
+    " до ",
+    "2 800",
+    " ",
+    "$",
+    " ",
+    "на руки"
+  ],
+  "url": "https://kurgan.hh.ru/vacancy/99311948?query=python&hhtmFrom=vacancy_search_list"
+}]
