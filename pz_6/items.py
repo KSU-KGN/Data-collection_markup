@@ -11,9 +11,29 @@
 
 import scrapy
 
+from itemloaders.processors import TakeFirst, MapCompose, Compose
+
+def process_name(value):
+    value = value[0].strip()
+    return value
+
+def process_category(value):
+    value = value[0].strip()
+    return value
+
+def process_photos(value:str):
+    print()
+    if value.startswith('//'):
+        value = 'https:' + value.split()[0]
+    else:
+        value = value.split()[1]
+    return value
+
 class UnsplashparserItem(scrapy.Item):
     # define the fields for your item here like:
-    name = scrapy.Field()
-    category = scrapy.Field()
-    url = scrapy.Field()
+    name = scrapy.Field(input_processor=Compose(process_name), output_processor=TakeFirst())
+    category = scrapy.Field(input_processor=MapCompose(process_category))
+    url = scrapy.Field(output_processor=TakeFirst())
+    photos = scrapy.Field(input_processor=MapCompose(process_photos))
     _id = scrapy.Field()
+
